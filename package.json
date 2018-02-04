@@ -1,0 +1,19 @@
+{
+  "name": "chatbot-hackathon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "botmaster": "^3.2.0",
+    "botmaster-messenger": "^1.0.2",
+    "javascript-state-machine": "^3.0.1",
+    "speakeasy-nlp": "^0.2.12",
+    "yes-no-words": "^1.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.12"
+  }
+}
